@@ -66,13 +66,11 @@ Key steps include:
 The app will launch in your browser (default: http://localhost:8501)
 
 ### 📊 Output Screens
-Home Screen: Introduction and instructions
 
-Pareto Front Plot: Interactive scatter plot of cost vs. waiting time
+#### 🖼️ Home & Pareto Front
+![Home Screen](output1.jpg)
+![Pareto Front](output2.jpg)
 
-Metrics Dashboard: Displays best recommended solution with frequency, cost, satisfaction, and efficiency
-
-Summary Section: Highlights Pareto count, cost range, and waiting time range
 
 ### 🎯 Results & Insights
 
